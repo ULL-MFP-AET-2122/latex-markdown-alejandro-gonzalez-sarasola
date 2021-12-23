@@ -24,7 +24,7 @@ A continuación se muestra una tabla con el sistema de evaluación propuesto:
 
 ![Tabla](Captura.PNG)
 
-Enlace 1 (#https://redined.educacion.gob.es/xmlui/bitstream/handle/11162/196323/evaluacion.pdf?sequence=1)
+[Enlace 1](https://redined.educacion.gob.es/xmlui/bitstream/handle/11162/196323/evaluacion.pdf?sequence=1)
 
 
 [Enlace 2](file:///C:/Users/E98001477/Downloads/Dialnet-ConstruccionColaborativaDeUnaErubricaParaLaAutoeva-5027847%20(1).pdf)
