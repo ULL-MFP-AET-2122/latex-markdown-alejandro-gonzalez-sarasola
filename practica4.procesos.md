@@ -24,16 +24,17 @@ A continuación se muestra una tabla con el sistema de evaluación propuesto:
 
 ![Tabla](Captura.PNG)
 
-[Enlace 1](https://redined.educacion.gob.es/xmlui/bitstream/handle/11162/196323/evaluacion.pdf?sequence=1)
+
+##REFERENCIAS BIBLIOGRÁFICAS
 
 
-[Enlace 2](file:///C:/Users/E98001477/Downloads/Dialnet-ConstruccionColaborativaDeUnaErubricaParaLaAutoeva-5027847%20(1).pdf)
+[Evaluación 1](https://redined.educacion.gob.es/xmlui/bitstream/handle/11162/196323/evaluacion.pdf?sequence=1)
 
 GUARRO PALLAS, A. (2002): «La evaluación», en A. Guarro, Curriculum y democracia. Por un cambio de la cultura escolar, Barcelona: Octaedro, cap. 3, apartado 4.	
 
-https://materialeseducativos.net/2019/08/21/tipos-de-evaluacion-diagnostica-formativa-y-sumativa/
+[Tipos de evaluación](https://materialeseducativos.net/2019/08/21/tipos-de-evaluacion-diagnostica-formativa-y-sumativa/)
 
-https://des-for.infd.edu.ar/sitio/upload/diazbarrigacap8_EVALUACION.pdf
+[La evaluación](https://des-for.infd.edu.ar/sitio/upload/diazbarrigacap8_EVALUACION.pdf)
 
 
 
