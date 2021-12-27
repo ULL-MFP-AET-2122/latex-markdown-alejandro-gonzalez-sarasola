@@ -4,6 +4,7 @@
 
 ### Criterio 5. Tecnología 4ESO
 
+
 Nombre | Alejandro Gonzalez 
 -------|--------
 Asignatura | Procesos y Contextos educativos
@@ -22,10 +23,14 @@ Desde el punto de vista del alumnado y su participación en el sistema de evalua
 
 A continuación se muestra una tabla con el sistema de evaluación propuesto:
 
+
 ![Tabla](Captura.PNG)
 
 
-##REFERENCIAS BIBLIOGRÁFICAS
+<img width=50 src="https://i2.wp.com/www.imageneseducativas.com/wp-content/uploads/2016/03/Diferencias-entre-evaluaci%C3%B3n-formativa-y-sumativa.-PORTADA.jpg?fit=600%2C324&ssl=1">
+
+
+## REFERENCIAS BIBLIOGRÁFICAS
 
 
 [Evaluación 1](https://redined.educacion.gob.es/xmlui/bitstream/handle/11162/196323/evaluacion.pdf?sequence=1)
@@ -35,6 +40,9 @@ GUARRO PALLAS, A. (2002): «La evaluación», en A. Guarro, Curriculum y democra
 [Tipos de evaluación](https://materialeseducativos.net/2019/08/21/tipos-de-evaluacion-diagnostica-formativa-y-sumativa/)
 
 [La evaluación](https://des-for.infd.edu.ar/sitio/upload/diazbarrigacap8_EVALUACION.pdf)
+
+
+:smiley:
 
 
 
