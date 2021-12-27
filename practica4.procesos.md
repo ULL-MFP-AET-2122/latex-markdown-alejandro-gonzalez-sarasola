@@ -27,7 +27,7 @@ A continuación se muestra una tabla con el sistema de evaluación propuesto:
 ![Tabla](Captura.PNG)
 
 
-<img width=50 src="https://i2.wp.com/www.imageneseducativas.com/wp-content/uploads/2016/03/Diferencias-entre-evaluaci%C3%B3n-formativa-y-sumativa.-PORTADA.jpg?fit=600%2C324&ssl=1">
+<img width=150 src="https://i2.wp.com/www.imageneseducativas.com/wp-content/uploads/2016/03/Diferencias-entre-evaluaci%C3%B3n-formativa-y-sumativa.-PORTADA.jpg?fit=600%2C324&ssl=1">
 
 
 ## REFERENCIAS BIBLIOGRÁFICAS
