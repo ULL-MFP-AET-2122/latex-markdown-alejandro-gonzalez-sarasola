@@ -1,8 +1,8 @@
-#Práctica 4
+# Práctica 4
 
-##Asignatura: Procesos educativos
+## Asignatura: Procesos educativos
 
-###Criterio 5. Tecnología 4ESO
+### Criterio 5. Tecnología 4ESO
 
 Nombre | Alejandro Gonzalez 
 -------|--------
